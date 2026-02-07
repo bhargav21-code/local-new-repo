@@ -1,1 +1,1 @@
-# to add a local repo.
+# To add a local repo.
